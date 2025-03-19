@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\61067819\\Desktop\\Dev\\Codes\\HandNotes\\dotNet\\Val_Ref\\Val_Ref\\",
+  "WorkspaceRootPath": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\Val_Ref\\Val_Ref\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AFCDE52-DF1A-462D-9B4B-214212D4501A}|Val_Ref\\Val_Ref.csproj|c:\\users\\61067819\\desktop\\dev\\codes\\handnotes\\dotnet\\val_ref\\val_ref\\val_ref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AFCDE52-DF1A-462D-9B4B-214212D4501A}|Val_Ref\\Val_Ref.csproj|c:\\users\\devar\\onedrive\\desktop\\codes\\github\\dotnet_handnotes\\val_ref\\val_ref\\val_ref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AFCDE52-DF1A-462D-9B4B-214212D4501A}|Val_Ref\\Val_Ref.csproj|solutionrelative:val_ref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\61067819\\Desktop\\Dev\\Codes\\HandNotes\\dotNet\\Val_Ref\\Val_Ref\\Val_Ref\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\Val_Ref\\Val_Ref\\Val_Ref\\Program.cs",
               "RelativeDocumentMoniker": "Val_Ref\\Program.cs",
-              "ToolTip": "C:\\Users\\61067819\\Desktop\\Dev\\Codes\\HandNotes\\dotNet\\Val_Ref\\Val_Ref\\Val_Ref\\Program.cs",
+              "ToolTip": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\Val_Ref\\Val_Ref\\Val_Ref\\Program.cs",
               "RelativeToolTip": "Val_Ref\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCEAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T10:21:32.961Z",
               "EditorCaption": ""
