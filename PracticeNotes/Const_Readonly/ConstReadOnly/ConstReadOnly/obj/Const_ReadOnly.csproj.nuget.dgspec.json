@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\Const_Readonly\\ConstReadOnly\\ConstReadOnly\\Const_ReadOnly.csproj": {}
+    "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\PracticeNotes\\Const_Readonly\\ConstReadOnly\\ConstReadOnly\\Const_ReadOnly.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\Const_Readonly\\ConstReadOnly\\ConstReadOnly\\Const_ReadOnly.csproj": {
+    "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\PracticeNotes\\Const_Readonly\\ConstReadOnly\\ConstReadOnly\\Const_ReadOnly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\Const_Readonly\\ConstReadOnly\\ConstReadOnly\\Const_ReadOnly.csproj",
+        "projectUniqueName": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\PracticeNotes\\Const_Readonly\\ConstReadOnly\\ConstReadOnly\\Const_ReadOnly.csproj",
         "projectName": "Const_ReadOnly",
-        "projectPath": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\Const_Readonly\\ConstReadOnly\\ConstReadOnly\\Const_ReadOnly.csproj",
+        "projectPath": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\PracticeNotes\\Const_Readonly\\ConstReadOnly\\ConstReadOnly\\Const_ReadOnly.csproj",
         "packagesPath": "C:\\Users\\devar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\Const_Readonly\\ConstReadOnly\\ConstReadOnly\\obj\\",
+        "outputPath": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\PracticeNotes\\Const_Readonly\\ConstReadOnly\\ConstReadOnly\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -46,7 +46,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{641A26D0-1D80-49C4-A806-F14796B78271}|Out_Ref\\Out_Ref.csproj|solutionrelative:out_ref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2F18C26-FE32-41A6-A5A2-A52C259CFEA6}|..\\Const_Readonly\\ConstReadOnly\\ConstReadOnly\\ConstReadOnly.csproj|c:\\users\\devar\\onedrive\\desktop\\codes\\github\\dotnet_handnotes\\const_readonly\\constreadonly\\constreadonly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2F18C26-FE32-41A6-A5A2-A52C259CFEA6}|..\\Const_Readonly\\ConstReadOnly\\ConstReadOnly\\Const_ReadOnly.csproj|c:\\users\\devar\\onedrive\\desktop\\codes\\github\\dotnet_handnotes\\const_readonly\\constreadonly\\constreadonly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +42,7 @@
               "RelativeToolTip": "..\\Const_Readonly\\ConstReadOnly\\ConstReadOnly\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T02:11:53.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T02:11:53.294Z"
             }
           ]
         }
