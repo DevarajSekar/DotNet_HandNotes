@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\DotNetSamples\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{62146D58-F70A-466F-97FB-C29B1AF2114F}|Events\\Events.csproj|c:\\users\\devar\\onedrive\\desktop\\codes\\github\\dotnet_handnotes\\dotnetsamples\\events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62146D58-F70A-466F-97FB-C29B1AF2114F}|Events\\Events.csproj|solutionrelative:events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{35A92206-694C-4AFB-B2F7-4C02DC5B714A}|Delegates\\Delegates.csproj|c:\\users\\devar\\onedrive\\desktop\\codes\\github\\dotnet_handnotes\\dotnetsamples\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35A92206-694C-4AFB-B2F7-4C02DC5B714A}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A92206-694C-4AFB-B2F7-4C02DC5B714A}|Delegates\\Delegates.csproj|c:\\users\\devar\\onedrive\\desktop\\codes\\github\\dotnet_handnotes\\dotnetsamples\\delegates\\delegates.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35A92206-694C-4AFB-B2F7-4C02DC5B714A}|Delegates\\Delegates.csproj|solutionrelative:delegates\\delegates.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\DotNetSamples\\Delegates\\Program.cs",
               "RelativeDocumentMoniker": "Delegates\\Program.cs",
               "ToolTip": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\DotNetSamples\\Delegates\\Program.cs",
               "RelativeToolTip": "Delegates\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T07:09:40.591Z",
+              "WhenOpened": "2025-04-26T18:13:46.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delegates.csproj",
+              "DocumentMoniker": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\DotNetSamples\\Delegates\\Delegates.csproj",
+              "RelativeDocumentMoniker": "Delegates\\Delegates.csproj",
+              "ToolTip": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\DotNetSamples\\Delegates\\Delegates.csproj",
+              "RelativeToolTip": "Delegates\\Delegates.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T18:13:42.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\DotNetSamples\\Events\\Program.cs",
+              "RelativeDocumentMoniker": "Events\\Program.cs",
+              "ToolTip": "C:\\Users\\devar\\OneDrive\\Desktop\\Codes\\GitHub\\DotNet_HandNotes\\DotNetSamples\\Events\\Program.cs",
+              "RelativeToolTip": "Events\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T02:27:32.34Z",
               "EditorCaption": ""
             }
           ]
